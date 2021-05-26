@@ -1,1 +1,1 @@
-Deep - Learning -> ANN Models
+Deep - Learning -> Artificial Neural Networks (ANN) Models
